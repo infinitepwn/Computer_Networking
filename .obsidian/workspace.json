@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "物理层/物理层.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "物理层"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "物理层/物理层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "物理层 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "物理层/物理层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "物理层 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "物理层/物理层.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "物理层 的大纲"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,22 +196,37 @@
   },
   "active": "a5e2a4ad24c9bc4c",
   "lastOpenFiles": [
-    "概述/概述.md",
-    "README.md",
-    "计算机网络实验二.md",
-    "计算机网络实验学习.md",
-    "概述",
-    "概述/客户-服务器模式.md",
-    "网络层.md",
+    "物理层/信噪比.md",
+    "物理层/物理层.md",
+    "物理层/奈氏准则.md",
+    "物理层/物理层习题.md",
+    "习题.md",
+    "物理层/数据通信的基础知识.md",
+    "物理层/码元.md",
+    "概述/计算机网络的性能.md",
+    "物理层/信道复用技术.md",
+    "物理层/自同步.md",
     "数据链路层.md",
+    "网络层.md",
+    "计算机网络实验学习.md",
+    "计算机网络实验二.md",
+    "概述/概述.md",
+    "概述/报文交换.md",
     "概述/通信方式.md",
-    "Pasted image 20260605192714.png",
-    "最后一节课复习.md",
-    "note.md",
-    "概述/P2P 模式.md",
-    "物理层.md",
-    "应用层.md",
+    "概述/互联网的核心部分.md",
+    "概述/计算机网络的性能.canvas",
+    "概述/互联网的组成.md",
+    "概述/互联网的边缘部分.md",
+    "README.md",
+    "物理层",
+    "概述/未命名",
     "运输层.md",
+    "概述/协议.md",
+    "概述/概论习题.md",
+    "概述/分组交换.md",
+    "概述/P2P 模式.md",
+    "概述",
+    "Pasted image 20260605192714.png",
     "Pasted image 20260605191805.png"
   ]
 }
