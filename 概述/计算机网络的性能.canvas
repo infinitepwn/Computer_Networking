@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"1a12a9a6f7d8a396","x":-395,"y":-240,"width":435,"height":480,"type":"file","file":"概述/分组交换.md"},
-		{"id":"04680f5508d88eed","x":80,"y":-240,"width":520,"height":480,"type":"file","file":"概述/计算机网络的性能.md"}
-	],
-	"edges":[]
-}
